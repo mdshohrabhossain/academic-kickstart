@@ -56,7 +56,7 @@ social:
 #   link: files/cv.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
-email: ""
+email: "mdshohrabh03@gmail.com"
   
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.  
@@ -64,4 +64,4 @@ user_groups:
 - Researchers
 - Visitors
 ---
-I am currently a first year Master's student at the University of Macau. I have completed my undergradute study at University of Macau majoring in Electrical & Computer Engineering. My area of research is about applying deeo reinforcement learning in energy sector. Besides academics study, I like to take photos and travel. 
+I am currently a first year Master's student at the University of Macau. I have completed my undergradute study at University of Macau majoring in Electrical & Computer Engineering. My area of research is about applying deep reinforcement learning in energy sector. Besides academic study, I like to take photos and travel. 
