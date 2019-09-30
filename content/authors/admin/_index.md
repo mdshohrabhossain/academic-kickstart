@@ -29,7 +29,7 @@ interests:
 education:
   courses:
   - course: MSc in Electrical & Computer Enginnering
-    institution: Massachusetts Institute of Technology
+    institution: University of Macau
     year: 2019 - Present 
   - course: BSc in Electrical & Computer Enginnering
     institution: University of Macau
