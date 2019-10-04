@@ -21,10 +21,11 @@ organizations:
 bio: My research interests include distributed robotics, mobile computing and programmable matter.
 
 interests:
+- Smart Energy
 - Artificial Intelligence
-- Deep Reinforcement Learning
-- Curuiosity Driven AI 
-- Smart Energy 
+- Reinforcement Learning
+- Intelligent Energy Management System  
+- Optimization 
 
 education:
   courses:
@@ -64,4 +65,4 @@ user_groups:
 - Researchers
 - Visitors
 ---
-I am currently a first year Master's student at the University of Macau. I have completed my undergradute study at University of Macau majoring in Electrical & Computer Engineering. My area of research is about applying deep reinforcement learning in energy sector. Besides academic study, I like to take photos and travel. 
+I'm currently a first year Master's student with the [State Key Laboratory of Internet of Things for Smart City](https://skliotsc.um.edu.mo/) at University of Macau majoring in Electrical & Computer Engineering. I've completed my undergradute study at University of Macau in Electrical & Computer Engineering. My area of research is building AI for Smart Energy Management System. Besides academic study, I like travelling and taking photos.
